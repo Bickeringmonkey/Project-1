@@ -203,4 +203,20 @@ img{
   }
 
 }
+/* Container for skill bars */
+.container {
+  width: 100%; /* Full width */
+  background-color: #ddd; /* Grey background */
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding: 10px; /* Add some padding */
+  color: white; /* White text color */
+}
+
+.html {width: 30%; background-color: #4CAF50;} /* Green */
+.css {width: 20%; background-color: #2196F3;} /* Blue */
+.js {width: 15%; background-color: #f44336;} /* Red */
+.php {width: 15%; background-color: #808080;} /* Dark Grey */
 
